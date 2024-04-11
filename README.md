@@ -1,6 +1,5 @@
 - 👋 Hi, I’m N.Jashwanth.
-- 👀 I’m interested in Full Stack java Web Development and Blockchain technology.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Full Stack javaScript Web Development and Blockchain technology.
 - 💞️ I’m looking to collaborate on JavaScript Web Development projects.
 - 📫 Reach me Via mail: jashwanthbablu18@gmail.com
 
