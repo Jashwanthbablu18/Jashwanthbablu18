@@ -1,6 +1,6 @@
 - 👋 Hi, I’m N.Jashwanth.
-- 👀 I’m interested in Full Stack javaScript Web Development and Blockchain technology.
-- 💞️ I’m looking to collaborate on JavaScript Web Development projects.
+- 👀 I’m interested in MERN Stack Web Development and Blockchain technology.
+- 💞️ I’m looking to collaborate on MERN Stack Web Development projects.
 - 📫 Reach me Via mail: jashwanthbablu18@gmail.com
 
 <!---
