@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jashwanth</h1>
-<h3 align="center">A passionate MERN Stack developer and Blockchain Application Developer.</h3>
+<h3 align="center">A passionate MERN Stack developer, Python Programer and DApp Developer.</h3>
 
 - 🔭 I’m curious to work on **MERN Stack projects & Blockchain projects using Ethereum and Hyperledger Fabric.**
 
-- 👯 I’m looking to collaborate on **Problem solving using Python, Web Development, Blockchain Application Development and Smart Contract Development.**
+- 👯 I’m looking to collaborate on **Problem solving using Python, Web Development, DApp Development and Smart Contract Development.**
 
-- 🤝 I’m looking for help with **Web Development & Blockchain Application Development.**
+- 🤝 I’m looking for help with **Web Development, Python programming & DApp Development.**
 
 - 💬 Ask me about **JavaScript, Python, DSA using Python, Web Development & Blockchain.**
 
