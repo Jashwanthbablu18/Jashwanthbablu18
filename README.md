@@ -67,10 +67,6 @@ Passionate about building scalable Python applications, solving algorithmic chal
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/sql-database-generic.svg" alt="SQL" width="45" height="45"/>
-</a>
-
 </p>
 
 ---
